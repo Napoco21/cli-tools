@@ -2,11 +2,11 @@
 A variety of command-line tools
 
 ### Features
-* It allows for the transmutation of text into interesting(?) shapes
+* It allows the transmutation of text into interesting(?) shapes
 * display help with `./cli-tools` or `./cli-tools -h`
 
 ### Roadmap
-* A user will be able to save time doing silly things
+* A user will be able to save time doing irrational things
 
 ### What are some example use-cases?
 #### transmute wrap-box
